@@ -1,0 +1,4 @@
+locust
+influxdb-client
+requests
+grafana-client
